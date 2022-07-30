@@ -1,0 +1,37 @@
+"""first way"""
+# a=2
+# b=4
+# c=5
+# print(a)
+# print(b)
+# print(c)
+# print(d)
+
+"""second way"""
+# a=4;b=5;c=2
+# print(a)
+# print(b)
+# print(c)
+
+"""third way"""
+# a=2;b=3;c=4
+# print(a);print(b);print(c)
+
+"""fourth way"""
+# a,b,c,d=1,2,3,4
+# print(a);print(b);print(c);print(d)
+
+"""fifty way"""
+# a=1;b=2;c=4
+# print(a,b,c)
+# print(a,a,a,a)
+# print(b,c,a)
+
+"""sixth way"""
+# a=b=e=i=o=u=7
+# print(b);print(b);print(e);print(i);print(o);print(u)
+
+"""seventh way"""
+# a=d=e=6;b=5;c=4
+# print(a,e,c)
+# print(d,b,a,c)
